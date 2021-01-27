@@ -1,0 +1,15 @@
+.gallery {
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+  background-color: #051445;
+}
+
+.gallery__carousel {
+  margin-bottom: 60px;
+}
+
+.gallery__videoContainer {
+  margin-left: 24%;
+  margin-bottom: 20px;
+}
